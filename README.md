@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" alt="Abstract AI neural network banner" width="100%" />
+![Abstract AI neural network banner](./assets/profile-banner.png)
 
 # Hi, I'm Omar Saeed 👋
 
