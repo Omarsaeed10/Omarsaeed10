@@ -78,7 +78,7 @@ Building practical AI systems and exploring how intelligent technologies can sol
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Omarsaeed10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Omar's GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Omarsaeed10&show_icons=true&theme=tokyonight&hide_border=true" alt="Omar's GitHub statistics" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarsaeed10&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Omarsaeed10&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
